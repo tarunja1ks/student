@@ -16,7 +16,7 @@ Blogging in GitHub pages is a way to learn and code at the same time.
 
 ## My Hobbies
 ![](images/freeform.png)
-Some things I like to do for fun include coding, basketball, and more. I enjoy play basketball in my backyard or friends in the park. I cannot dunk like in the picture yet, but I hope to do so in the future. I also have some experience in coding competitvely in hackathons and competitive programing competitions. I code mainly in Python and Java. I also like to eat ice cream, which is in my freeform picture. Another one of my hobbies, is music as I enjoy listening to many songs on Spotify, which is indicated by the app logo in my freeform. 
+Som3 things I like to do for fun include coding, basketball, and more. I enjoy play basketball in my backyard or friends in the park. I cannot dunk like in the picture yet, but I hope to do so in the future. I also have some experience in coding competitvely in hackathons and competitive programing competitions. I code mainly in Python and Java. I also like to eat ice cream, which is in my freeform picture. Another one of my hobbies, is music as I enjoy listening to many songs on Spotify, which is indicated by the app logo in my freeform. 
 
 ## Youtube Channel
 Subscribe to my [Youtube Chanel](https://www.youtube.com/@tarunjaikumar9058/featured) !!
