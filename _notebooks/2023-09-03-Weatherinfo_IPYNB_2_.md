@@ -16,9 +16,6 @@ const output = document.getElementById("output");
 </script>
 
 
-```python
-
-```
 
 <script>
     function Weather() {
