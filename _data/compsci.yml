@@ -7,5 +7,10 @@ Unit1:
 Unit2:
   title: Learn Language
   description: Learn (JavaScript|Python|Java).  Start Agile development process.
-  start: 4
+  start: 4  
   end: 7
+Unit3:
+  title: Team Teach/ Passion Project
+  description: Team Teach homeworks and working/updates on my passion project. 
+  start: 8
+  end: 11
