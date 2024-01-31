@@ -1,3 +1,52 @@
+<style>
+    form {
+        max-width: 300px; /* Adjust the width as needed */
+        margin: 0 auto; /* Center the form on the page */
+        box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Box shadow for a subtle effect */
+        padding: 20px;
+        border-radius: 8px; /* Add rounded corners for a modern look */
+    }
+
+    input {
+        width: 100%;
+        padding: 10px;
+        margin-bottom: 15px;
+        box-shadow: inset 0 0 5px rgba(0, 0, 0, 0.1); /* Inner glow effect for input fields */
+        border: 1px solid #ccc;
+        border-radius: 4px;
+        transition: box-shadow 0.3s ease; /* Add transition for a smooth effect */
+    }
+
+    input:focus {
+        outline: none; /* Remove default focus outline */
+        box-shadow: 0 0 10px rgba(0, 0, 255, 0.5); /* Change box shadow on focus for emphasis */
+    }
+
+    button {
+        background-color: #4CAF50;
+        color: white;
+        padding: 10px 15px;
+        border: none;
+        border-radius: 4px;
+        cursor: pointer;
+        box-shadow: 0 0 10px rgba(0, 128, 0, 0.5); /* Box shadow for the button */
+        transition: box-shadow 0.3s ease; /* Add transition for a smooth effect */
+    }
+
+    button:hover {
+        box-shadow: 0 0 15px rgba(0, 128, 0, 1); /* Change box shadow on hover for emphasis */
+    }
+</style>
+
+<!-- Your existing HTML form goes here -->
+<form action="javascript:login_user()">
+    <!-- ... -->
+</form>
+
+<script type="module">
+    // Your existing JavaScript code goes here
+</script>
+
 <form action="javascript:login_user()">
     <p><label>
         User ID:
