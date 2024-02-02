@@ -39,7 +39,13 @@
 </style>
 
 <!-- Your existing HTML form goes here -->
+<!-- <form action="javascript:login_user()">
+    <!-- ... -->
+<!-- </form>
 
+<script type="module">
+    // Your existing JavaScript code goes here
+</script> -->
 
 <form action="javascript:login_user()">
     <p><label>
