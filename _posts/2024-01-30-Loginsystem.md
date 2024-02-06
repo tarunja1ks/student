@@ -110,6 +110,7 @@ The script defines a function when the page loads. This function is triggered wh
         .catch(err => {
 
             console.error(err);
+            // window.location.href = "http://127.0.0.1:4200/student/2024/01/30/loginfailed.html";
         });
     }
 
