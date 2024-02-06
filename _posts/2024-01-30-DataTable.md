@@ -70,8 +70,10 @@
         });
 </script>
 
+<label for="myTextField">Enter the UID you want to delete</label>
+<input type="text" id="duid" name="duid">
 
-<button onclick="deleteUser()">Delete My Account</button>
+<button onclick="deleteUser()">Delete Account</button>
 
 
 
@@ -79,6 +81,9 @@
     function deleteUser() {
         // You can add your logic for deleting the user here
         console.log("in function");
+        const body = {
+            uid: document.getElementById("duid").value,
+            };
         const url = 'http://127.0.0.1:8086/api/users/';
         const options = {
             mode: 'cors', // no-cors, cors, same-origin
@@ -88,6 +93,7 @@
             },
             method: 'DELETE', // Override the method property
             cache: 'no-cache', // Set the cache property
+            body: JSON.stringify(body)
         };
         fetch(url, options)
         // response is a RESTful "promise" on any successful fetch
