@@ -34,3 +34,15 @@ Over here we explained some of the featues of our site such as th animations whe
 
 
 
+## Blog On Event
+### In Compsci
+- As I walked around I witnessed many presentations and projects of the CPT with different frontends but also a different backend behind it powering the whole project. For example, in Adviks group I was able to witness a platform similar to Youtube being created where in the backend they were able to figure out how to store videos. Also in Ronnit's group I was able to witness their meme project, which was cool as they were able to store many images. I was also able to witness Nitin's real estate project, which was very cool. 
+
+### Out of Compsci
+- Out of compsci I was able to witness a variety of students learning more about the different projects that the students have been working on long and hard. I was able to see the parents enjoying their children's and other students work and other art-classes witness the computerscience projects and it was a very lively and vibrant enviorement. 
+
+![](../../../images/CPTPIC5.png)
+![](../../../images/CPTPIC6.png)
+![](../../../images/CPTPIC7.png)
+![](../../../images/CPTPIC8.png)
+![](../../../images/CPTPIC9.png)
