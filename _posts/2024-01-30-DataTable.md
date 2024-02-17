@@ -30,7 +30,7 @@
             // check for response errors and display
             if (response.status !== 200) {
                 const errorMsg = 'Database response error: ' + response.status;
-                window.location.href = "http://127.0.0.1:4200/student/2024/01/31/403error.html";
+                window.location.href = "http://127.0.0.1:4200/student/2024/01/31/401error.html";
                 console.log(errorMsg);
                 const tr = document.createElement("tr");
                 const td = document.createElement("td");
